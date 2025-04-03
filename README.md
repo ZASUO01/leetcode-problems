@@ -3,7 +3,7 @@
 ## Study Plans
 
 ### [Dynamic Programing](/dynamic-programing)
-- [70 | Climbing Stairs](/dynamic-programing/1768.cpp)
+- [70 | Climbing Stairs](/dynamic-programing/70.cpp)
 - [509 | Fibonacci Number](/dynamic-programing/509.cpp)
 - [1137 | N-th Tribonacci Number](/dynamic-programing/1137.cpp)
 - [746 | Min Cost Climbing Stairs](/dynamic-programing/746.cpp)
