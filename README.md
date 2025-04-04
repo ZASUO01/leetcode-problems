@@ -9,6 +9,9 @@
 - [746 | Min Cost Climbing Stairs](/dynamic-programing/746.cpp)
 - [198 | House Robber](/dynamic-programing/198.cpp)
 - [740 | Delete and Earn](/dynamic-programing/740.cpp)
+- [62 | Unique Paths](/dynamic-programing/62.cpp)
+- [64 | Minimum Path Sum](/dynamic-programing/64.cpp)
+- [63 | Unique Paths II](/dynamic-programing/63.cpp)
 
 ### [LeetCode 75](/leetcode/leet-code-75)
 - [1768 | Merge Strings Alternately](/leetcode/leet-code-75/1071.cpp)
