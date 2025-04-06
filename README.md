@@ -13,6 +13,8 @@
 - [64 | Minimum Path Sum](/dynamic-programing/64.cpp)
 - [63 | Unique Paths II](/dynamic-programing/63.cpp)
 - [120 | Triangle](/dynamic-programing/120.cpp)
+- [931 | Minimum Falling Path Sum](/dynamic-programing/931.cpp)
+- [221 | Maximal Square](/dynamic-programing/221.cpp)
 
 ### [LeetCode 75](/leetcode/leet-code-75)
 - [1768 | Merge Strings Alternately](/leetcode/leet-code-75/1071.cpp)
